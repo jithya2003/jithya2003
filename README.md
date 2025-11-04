@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jithya Kulathilaka</h1>
 <h3 align="center">A Passionate DevOps Enthusiast</h3>
 
-- 🔭 I’m currently working on **Python webapp deployed in Azure Cloud with CI/CD**
+- 🔭 I’m currently working on **A project on Azure Cloud Platform**
 
 - 🌱 I’m currently learning **Terraform**
 
